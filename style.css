@@ -1,6 +1,6 @@
-#banner {
+#hero {
     background-image: url(assets/cat-big.png);
-    background-position: bottom;
+    background-position: bottom right;
     background-size: contain;
     background-repeat: no-repeat;
 }
