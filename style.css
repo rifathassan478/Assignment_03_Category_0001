@@ -1,0 +1,7 @@
+#banner {
+    background-image: url(assets/cat-big.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+}
